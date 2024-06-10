@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-10T16:29:02 EET" name="Default suite" finished-at="2024-06-10T16:29:26 EET" duration-ms="23342">
+    <groups>
+    </groups>
+    <test started-at="2024-06-10T16:29:02 EET" name="Default test" finished-at="2024-06-10T16:29:26 EET" duration-ms="23342">
+      <class name="MyTestCases">
+        <test-method signature="mySetUp()[pri:1, instance:MyTestCases@7642df8f]" started-at="2024-06-10T16:29:03 EET" name="mySetUp" finished-at="2024-06-10T16:29:25 EET" duration-ms="22768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetUp -->
+        <test-method signature="PriceItem()[pri:6, instance:MyTestCases@7642df8f]" started-at="2024-06-10T16:29:25 EET" name="PriceItem" finished-at="2024-06-10T16:29:26 EET" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PriceItem -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
